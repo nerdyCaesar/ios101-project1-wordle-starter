@@ -14,8 +14,7 @@ class WordGenerator {
   // Checkpoint: After finishing this exercise, you should now have a different goal word each time you run the app! Try printing out the selected goal word to check. If it's not working, check that you have done this exercise correctly.
   static let possibleWords = ["ABCDE"]
   static func generateRandomWord() -> String? {
-    // START YOUR CODE HERE
-    return possibleWords.first
+      return possibleWords.randomElement()
     // END YOUR CODE HERE
   }
 }
