@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-The syntax and no knowing what I was doing became the hardest challenge. Even with hints things weren't clear enough.
+The syntax and not knowing what I was doing became the hardest challenge. Even with hints things weren't clear enough.
 
 ## License
 
