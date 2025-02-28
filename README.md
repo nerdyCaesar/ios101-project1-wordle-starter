@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *WORDLE*
 
-Submitted by: **Your Name Here**
+Submitted by: **Piyush Belbase**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that where the user has the guess a five letter word within a given number of chances 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
