@@ -23,9 +23,7 @@ The following **additional** features are implemented:
 
 - [] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+## Video Walkthrough 
 <div>
     <a href="https://www.loom.com/share/9e1aa296baf74b14a4bad036f69eb9ee">
       <p>Simulator - iPhone 16 Pro - 28 February 2025 - Watch Video</p>
